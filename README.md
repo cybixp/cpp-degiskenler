@@ -25,3 +25,4 @@ Değişken türleri kısaca int,float,string,char ve booldur, ama long,byte gibi
 ### C++ ve python yazılım dillerinde değişken çıktısı almak
 
 (Python)[https://github.com/cybixp/degiskenler/blob/main/main.py]
+(C++)[https://github.com/cybixp/degiskenler/blob/main/main.cpp]
