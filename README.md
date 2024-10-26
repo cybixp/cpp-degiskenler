@@ -23,3 +23,5 @@ Değişken türleri kısaca int,float,string,char ve booldur, ama long,byte gibi
 **Bool:** 0 ve 1lerden oluşur, 1 bytedır.
 
 ### C++ ve python yazılım dillerinde değişken çıktısı almak
+
+(Python)[https://github.com/cybixp/degiskenler/blob/main/main.py]
